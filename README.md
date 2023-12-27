@@ -13,6 +13,7 @@ The article details screen: This screen displays information about a single arti
 
 Flutter: A cross-platform mobile development framework.
 New York Times API: A RESTful API that provides access to news articles from The New York Times.
+get: Empowers efficient state management, simplifying the process of handling and updating UI components.
 
 # Features:
 
